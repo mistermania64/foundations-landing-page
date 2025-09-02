@@ -2,7 +2,7 @@
 
 body 
 {
-    /* height: 100vh; */
+    height: 100vh;
     margin: 0;
     /* overflow: hidden; */
     font-family: Roboto, sans-serif;
@@ -16,6 +16,11 @@ body
     /* display: flex; */
     padding: 10px;
     background-color: #1f2937;
+}
+
+.main
+{
+    flex: 1;
 }
 
 ul
